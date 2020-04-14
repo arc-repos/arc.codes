@@ -367,10 +367,13 @@ th {
   height: 30px;
 }
 
+/* Not sure what we needed this for
+Commented out bc it was messing with embedded images
 .inner img {
   width:800px;
   max-width:100%;
 }
+*/
 
 #main-logo {
   width:500px;

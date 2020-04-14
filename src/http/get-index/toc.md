@@ -1,12 +1,10 @@
-- <b id=intro>Intro & background</b>
-  - [Project philosophy](/intro/philosophy)
-  - [Limits &amp; superpowers](/intro/limits)
+- <b id=intro>About</b>
+  - [Mission](/intro/mission)
+  - [Superpowers &amp; Differentiators](/intro/powers)
+  - [Community](/intro/community)
   - [Playground](/playground)
-  - [Community links](/intro/community)
-- <b id=quickstart>Quickstart</b>
-  - [Prerequisites](/quickstart)
-  - [Install Architect](/quickstart/install)
-  - [Project layout](/quickstart/layout)
+- <b id=get-started>Get Started</b>
+  - [Quickstart](/get-started/quickstart)
 - <b id=primitives>App primitives</b>
   - [HTTP functions](/primitives/http)
   - [WebSocket functions](/primitives/ws)
