@@ -1,0 +1,15 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 99
+  ignore:
+  - dependency-name: markdown-it-anchor
+    versions:
+    - 7.0.1
+    - 7.0.2
+  - dependency-name: js-yaml
+    versions:
+    - 4.0.0
